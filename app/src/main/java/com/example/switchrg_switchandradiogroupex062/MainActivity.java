@@ -13,7 +13,6 @@ import android.widget.TableLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-    TableLayout TL;
     View screenView;
     Switch swDN;
     RadioGroup rg;
